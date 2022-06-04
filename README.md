@@ -7,7 +7,6 @@ This code is written in python as my school project
 CONTROLS:
 
 up:   w
-
 down: s
 
 
