@@ -1,17 +1,16 @@
 # pong
-Basic pong game for one player in python
+Basic pong game for one player
 
 This code is written in python as my school project
 
 
-CONTROLS:
 
-up:   w
-down: s
+# controls
+- up:   w
+- down: s
 
 
+##
 that's all
 
 See ya!
-
--Martin
